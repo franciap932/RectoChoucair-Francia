@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Prepararme para aplicar a una oferta de empleo" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-04T22:42:40" hostname="DESKTOP-S2IR0CO" time="20.254">
+  <properties/>
+  <testcase name="Ingresendo al material de estudio de la pagina choucair" classname="Prepararme para aplicar a una oferta de empleo" time="20.254"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@34ca5297
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@b614ddf
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@6e38af77
+jun 04, 2021 5:42:41 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start-maximized, goog:chromeOptions: {args: [--start-maximized], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 3879
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1622846564.821][WARNING]: This version of ChromeDriver has not been tested with Chrome version 91.
+jun 04, 2021 5:42:44 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Ingresendo al material de estudio de la pagina choucair:Dado que quiero ingresar a la pagina choucair [Francia abrir [francia opens the Pagina inicio]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Ingresendo al material de estudio de la pagina choucair:Dado que quiero ingresar a la pagina choucair [Francia abrir [francia opens the Pagina inicio]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Ingresendo al material de estudio de la pagina choucair:Dado que quiero ingresar a la pagina choucair [Francia abrir [francia opens the Pagina inicio]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@52aa58cb
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@75ed71ad
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4160516f
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Ingresendo al material de estudio de la pagina choucair:Dado que quiero ingresar a la pagina choucair [Francia abrir [francia opens the Pagina inicio]], Y dar clic en la seccion Empleo [Francia ingresar seccion empleo [francia clicks on Dar clic en la opcion Empleo]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Ingresendo al material de estudio de la pagina choucair:Dado que quiero ingresar a la pagina choucair [Francia abrir [francia opens the Pagina inicio]], Y dar clic en la seccion Empleo [Francia ingresar seccion empleo [francia clicks on Dar clic en la opcion Empleo]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Ingresendo al material de estudio de la pagina choucair:Dado que quiero ingresar a la pagina choucair [Francia abrir [francia opens the Pagina inicio]], Y dar clic en la seccion Empleo [Francia ingresar seccion empleo [francia clicks on Dar clic en la opcion Empleo]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@1b4ac220
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@339750af
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@b564a8d
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Ingresendo al material de estudio de la pagina choucair:Dado que quiero ingresar a la pagina choucair [Francia abrir [francia opens the Pagina inicio]], Y dar clic en la seccion Empleo [Francia ingresar seccion empleo [francia clicks on Dar clic en la opcion Empleo]], Cuando voy a la opcion prepararse para aplicar [Francia seleccionar preparartepara aplicar [francia clicks on opcion prepararse para aplicar]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Ingresendo al material de estudio de la pagina choucair:Dado que quiero ingresar a la pagina choucair [Francia abrir [francia opens the Pagina inicio]], Y dar clic en la seccion Empleo [Francia ingresar seccion empleo [francia clicks on Dar clic en la opcion Empleo]], Cuando voy a la opcion prepararse para aplicar [Francia seleccionar preparartepara aplicar [francia clicks on opcion prepararse para aplicar]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Ingresendo al material de estudio de la pagina choucair:Dado que quiero ingresar a la pagina choucair [Francia abrir [francia opens the Pagina inicio]], Y dar clic en la seccion Empleo [Francia ingresar seccion empleo [francia clicks on Dar clic en la opcion Empleo]], Cuando voy a la opcion prepararse para aplicar [Francia seleccionar preparartepara aplicar [francia clicks on opcion prepararse para aplicar]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4f1f1afb
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Ingresendo al material de estudio de la pagina choucair:Dado que quiero ingresar a la pagina choucair [Francia abrir [francia opens the Pagina inicio]], Y dar clic en la seccion Empleo [Francia ingresar seccion empleo [francia clicks on Dar clic en la opcion Empleo]], Cuando voy a la opcion prepararse para aplicar [Francia seleccionar preparartepara aplicar [francia clicks on opcion prepararse para aplicar]], Entonces puedo ver los link de estudio
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: Ingresendo al material de estudio de la pagina choucair:Dado que quiero ingresar a la pagina choucair [Francia abrir [francia opens the Pagina inicio]], Y dar clic en la seccion Empleo [Francia ingresar seccion empleo [francia clicks on Dar clic en la opcion Empleo]], Cuando voy a la opcion prepararse para aplicar [Francia seleccionar preparartepara aplicar [francia clicks on opcion prepararse para aplicar]], Entonces puedo ver los link de estudio
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [Ingresendo al material de estudio de la pagina choucair:Dado que quiero ingresar a la pagina choucair [Francia abrir [francia opens the Pagina inicio]], Y dar clic en la seccion Empleo [Francia ingresar seccion empleo [francia clicks on Dar clic en la opcion Empleo]], Cuando voy a la opcion prepararse para aplicar [Francia seleccionar preparartepara aplicar [francia clicks on opcion prepararse para aplicar]], Entonces puedo ver los link de estudio]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [Ingresendo al material de estudio de la pagina choucair:Dado que quiero ingresar a la pagina choucair [Francia abrir [francia opens the Pagina inicio]], Y dar clic en la seccion Empleo [Francia ingresar seccion empleo [francia clicks on Dar clic en la opcion Empleo]], Cuando voy a la opcion prepararse para aplicar [Francia seleccionar preparartepara aplicar [francia clicks on opcion prepararse para aplicar]], Entonces puedo ver los link de estudio]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Ingresendo al material de estudio de la pagina choucair
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>

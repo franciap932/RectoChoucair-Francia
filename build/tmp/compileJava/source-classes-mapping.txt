@@ -1,0 +1,16 @@
+util/Constantes.java
+ co.com.proyectobase.screenplay.util.Constantes
+util/PaginaHook.java
+ util.PaginaHook
+userinterface/PaginaInicio.java
+ userinterface.PaginaInicio
+tasks/Abrir.java
+ tasks.Abrir
+tasks/IngresarSeccionEmpleo.java
+ tasks.IngresarSeccionEmpleo
+userinterface/DarclicEnSeccionEmpleo.java
+ userinterface.DarclicEnSeccionEmpleo
+userinterface/PrepararseParaAplica.java
+ userinterface.PrepararseParaAplica
+tasks/SeleccionarPrepararteparaAplicar.java
+ tasks.SeleccionarPrepararteparaAplicar
